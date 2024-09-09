@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Eienel
-- 👀 I’m interested in frontend/backend/Blockchain development.SOL MAXI
-I’m currently learning JavaScript.
-I’m looking to collaborate on JS related projects.
-   How to reach me: Twitter: @eienel_eth, Discord: Eienel
+Blockchain development.SOL MAXI
+   Reach out: Twitter: @eienel_eth, Discord: Eienel
 
 <!---
 Eienel/Eienel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
